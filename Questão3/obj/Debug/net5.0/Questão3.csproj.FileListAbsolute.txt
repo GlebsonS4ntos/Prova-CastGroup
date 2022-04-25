@@ -1,0 +1,16 @@
+E:\ProjetosCast\Prova\Questão3\bin\Debug\net5.0\Questão3.exe
+E:\ProjetosCast\Prova\Questão3\bin\Debug\net5.0\Questão3.deps.json
+E:\ProjetosCast\Prova\Questão3\bin\Debug\net5.0\Questão3.runtimeconfig.json
+E:\ProjetosCast\Prova\Questão3\bin\Debug\net5.0\Questão3.runtimeconfig.dev.json
+E:\ProjetosCast\Prova\Questão3\bin\Debug\net5.0\Questão3.dll
+E:\ProjetosCast\Prova\Questão3\bin\Debug\net5.0\Questão3.pdb
+E:\ProjetosCast\Prova\Questão3\obj\Debug\net5.0\Questão3.csproj.AssemblyReference.cache
+E:\ProjetosCast\Prova\Questão3\obj\Debug\net5.0\Questão3.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetosCast\Prova\Questão3\obj\Debug\net5.0\Questão3.AssemblyInfoInputs.cache
+E:\ProjetosCast\Prova\Questão3\obj\Debug\net5.0\Questão3.AssemblyInfo.cs
+E:\ProjetosCast\Prova\Questão3\obj\Debug\net5.0\Questão3.csproj.CoreCompileInputs.cache
+E:\ProjetosCast\Prova\Questão3\obj\Debug\net5.0\Questão3.dll
+E:\ProjetosCast\Prova\Questão3\obj\Debug\net5.0\refint\Questão3.dll
+E:\ProjetosCast\Prova\Questão3\obj\Debug\net5.0\Questão3.pdb
+E:\ProjetosCast\Prova\Questão3\obj\Debug\net5.0\Questão3.genruntimeconfig.cache
+E:\ProjetosCast\Prova\Questão3\obj\Debug\net5.0\ref\Questão3.dll

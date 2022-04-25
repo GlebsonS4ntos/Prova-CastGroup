@@ -1,0 +1,16 @@
+E:\ProjetosCast\Prova\Questão2\bin\Debug\net5.0\Questão2.exe
+E:\ProjetosCast\Prova\Questão2\bin\Debug\net5.0\Questão2.deps.json
+E:\ProjetosCast\Prova\Questão2\bin\Debug\net5.0\Questão2.runtimeconfig.json
+E:\ProjetosCast\Prova\Questão2\bin\Debug\net5.0\Questão2.runtimeconfig.dev.json
+E:\ProjetosCast\Prova\Questão2\bin\Debug\net5.0\Questão2.dll
+E:\ProjetosCast\Prova\Questão2\bin\Debug\net5.0\Questão2.pdb
+E:\ProjetosCast\Prova\Questão2\obj\Debug\net5.0\Questão2.csproj.AssemblyReference.cache
+E:\ProjetosCast\Prova\Questão2\obj\Debug\net5.0\Questão2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetosCast\Prova\Questão2\obj\Debug\net5.0\Questão2.AssemblyInfoInputs.cache
+E:\ProjetosCast\Prova\Questão2\obj\Debug\net5.0\Questão2.AssemblyInfo.cs
+E:\ProjetosCast\Prova\Questão2\obj\Debug\net5.0\Questão2.csproj.CoreCompileInputs.cache
+E:\ProjetosCast\Prova\Questão2\obj\Debug\net5.0\Questão2.dll
+E:\ProjetosCast\Prova\Questão2\obj\Debug\net5.0\refint\Questão2.dll
+E:\ProjetosCast\Prova\Questão2\obj\Debug\net5.0\Questão2.pdb
+E:\ProjetosCast\Prova\Questão2\obj\Debug\net5.0\Questão2.genruntimeconfig.cache
+E:\ProjetosCast\Prova\Questão2\obj\Debug\net5.0\ref\Questão2.dll
